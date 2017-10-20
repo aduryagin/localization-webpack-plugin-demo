@@ -1,4 +1,5 @@
 # Demo of LocalizationWebpackPlugin
+[View demo](https://warm-savannah-71686.herokuapp.com/)
 [Plugin source](https://github.com/aiduryagin/localization-webpack-plugin)
 
 ## Commands
