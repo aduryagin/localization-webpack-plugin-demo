@@ -1,0 +1,11 @@
+[ignore]
+
+[include]
+./source/.*
+./tools/.*
+
+[libs]
+
+[lints]
+
+[options]
